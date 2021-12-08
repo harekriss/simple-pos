@@ -1,3 +1,2 @@
 # Testing git
-
-Testing git pull, push, commit
+- Testing git pull, push, commit
